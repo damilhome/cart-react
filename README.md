@@ -1,3 +1,7 @@
+## Link para o projeto
+
+[Cart project](https://react-vite-project-cart.netlify.app/)
+
 ## Figma URL
 
 [Cart](https://www.figma.com/file/5AwKjnWuM6BhRYmxdQFpky/Cart?node-id=0%3A1&t=lfaO4zazTd7nqF1q-1)
